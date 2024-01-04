@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4199: /DELAYLOAD:SystemParametrs.dll ignored; no imports found from SystemParametrs.dll
+  App.vcxproj -> C:\Users\VD\source\repos\App\Debug\App.exe
